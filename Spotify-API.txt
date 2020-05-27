@@ -1,2 +1,4 @@
-trying to see of this works 
-new page to leave video links
+File with links to all my Spotify API videos:
+    #1: https://www.youtube.com/watch?v=ziDFivq8q-8&t=249s
+    #2: https://www.youtube.com/watch?v=BmmentoHEE4&t=7s
+    #3: https://www.youtube.com/watch?v=giaPWgHtjAs&t=2s
